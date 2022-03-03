@@ -1,16 +1,17 @@
-### Hi there 👋
+ Hi there 👋
+ 
+- :zap: I Love Front End Development, DSA, JavaScript
+- 🌱 I’m currently learning Java Full Stack and React
+- :earth_africa: I Love to play Football
 
-<!--
-**rajmahajan2224/rajmahajan2224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to find me: 
+  - :bulb: [Medium articles](https://medium.com/@mahajanraj97)
+  - :office: [LinkedIn](www.linkedin.com/in/raj-mahajan-4a2503173)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Raj Mahajan github stats](https://github-readme-stats.vercel.app/api?username=rajmahajan2224&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rajmahajan2224/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmahajan2224)](https://github.com/rajmahajan2224/github-readme-stats)
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mahajanraj97/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahajanraj97/0" alt="Recent Article 0 1">
