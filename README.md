@@ -14,4 +14,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmahajan2224)](https://github.com/rajmahajan2224/github-readme-stats)
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mahajanraj97/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahajanraj97/0" alt="Recent Article 0 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mahajanraj97/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahajanraj97/0" alt="Recent Article 0, 1">
