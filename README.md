@@ -1,7 +1,7 @@
  Hi there 👋
  
 - :zap: I Love Front End Development, DSA, JavaScript
-- 🌱 I’m currently learning Java Full Stack and React
+- 🌱 I’m currently learning Data Structures and Alogrithms with JavaScript and React
 - :earth_africa: I Love to play Football
 
 - 📫 How to find me: 
